@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>登录</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.1.0/css/bootstrap.min.css">
+    <script src="https://cdn.staticfile.org/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdn.staticfile.org/popper.js/1.12.5/umd/popper.min.js"></script>
+    <script src="https://cdn.staticfile.org/twitter-bootstrap/4.1.0/js/bootstrap.min.js"></script>
+    <style>
+
+    </style>
+</head>
+<body>
+    <div class="container-fluid bg-primary" style="height: 200px;">
+        <div class="row bg-danger h-100">
+            <div class="col-4 bg-success m-auto text-center">
+                你好
+            </div>
+            <div class="col-4 bg-warning m-auto text-center">
+                <button  class="btn btn-primary">bbb</button>
+            </div>
+            <div class="col-4 bg-primary m-auto text-center">
+                <img  src="https://www.baidu.com/favicon.ico"/>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
