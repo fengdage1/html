@@ -1,0 +1,13 @@
+<head>
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+</head>
+<body>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-4">
+        <a href=""><span class="fa fa-link" style="" title=""></span></a>
+        <span class="fa fa-link" style="color: red" title="-"></span>
+      </div>
+    </div>
+  </div>
+</body>
