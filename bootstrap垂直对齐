@@ -1,3 +1,4 @@
+***垂直水平居中
 方法1：
     <div class="container-fluid bg-primary" style="height: 200px;">
         <div class="row bg-danger h-100">
@@ -24,3 +25,18 @@
             </div>
         </div>
     </div>
+
+***靠底部对齐
+<div class="container-fluid bg-primary" style="height: 200px;">
+        <div class="row bg-danger h-100 align-items-end">
+            <div class="col-4 bg-success text-center  ">
+                <span>text-bottom</span>
+            </div>
+            <div class="col-4 bg-warning text-center ">
+                <button  class="btn btn-primary">bbb</button>
+            </div>
+            <div class="col-4 bg-warning text-center ">
+                <button  class="btn btn-primary">bbb</button>
+            </div>
+        </div>
+</div>
