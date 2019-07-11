@@ -1,0 +1,7 @@
+<div class="col-12 bg-warning text-center fixed-top">
+    <button  class="btn btn-primary">bbb</button>
+</div>
+
+<div class="col-12 bg-warning text-center fixed-bottom">
+    <button  class="btn btn-primary">bbb</button>
+</div>
